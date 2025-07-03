@@ -6,7 +6,7 @@
 }
 
 window#waybar {
-    background-color: #23252e;
+    background-color: #2d3646;
     color: #C5C8C6;
     /* margin: 10px 0px 0px 0px; */
 }
@@ -98,7 +98,7 @@ button {
 #custom-btop,
 #custom-calendar,
 #custom-power {
-    color: #25a487;
+    color: #f57068;
     padding: 0 2px;
     margin: 0 2px;
     min-width: 16px;
@@ -181,7 +181,7 @@ label:focus {
 }
 
 #pulseaudio {
-    color: #25a487;
+    color: #f57068;
 }
 
 #pulseaudio.muted {
@@ -251,14 +251,14 @@ label:focus {
 }
 
 #language {
-    color: #25a487;
+    color: #f57068;
     margin: 0 5px;
     min-width: 16px;
 }
 
 #keyboard-state {
-    background: #23252e;
-    color: #23252e;
+    background: #2d3646;
+    color: #2d3646;
     padding: 0 0px;
     margin: 0 5px;
 }
@@ -268,7 +268,7 @@ label:focus {
 }
 
 #keyboard-state > label.locked {
-    background: #97e1ad;
+    background: #e1a897;
     color: #000000;
     padding: 0 5px;
     margin: 0 5px;

@@ -151,11 +151,11 @@
         "format-alt": "{:%d-%m-%Y %H:%M:%S}"
     },
     "cpu": {
-        "format": "<span color='#25A487'></span> {usage}%",
+        "format": "<span color='#F57068'></span> {usage}%",
         "tooltip": false
     },
     "memory": {
-        "format": "<span color='#25A487'></span> {}%"
+        "format": "<span color='#F57068'></span> {}%"
     },
     "temperature": {
         // "thermal-zone": 2,
