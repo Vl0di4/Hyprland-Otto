@@ -31,10 +31,10 @@ cp -rf ~/Hyprland-Otto/Otto/firefox/user.js ~/.mozilla/firefox/n0eij4j3.default-
 cp -rf ~/Hyprland-Otto/Otto/firefox/chrome ~/.mozilla/firefox/n0eij4j3.default-release/
 
 #Добавление GTK темы
-tar -xf ~/Hyprland-Otto/Otto/Otto-GTK.tar.gz
+tar -xf ~/Hyprland-Otto/Otto/otto-gtk.tar.gz
 tar -xf ~/Hyprland-Otto/Otto/assets.tar.gz
 cp -rf Otto-GTK ~/.themes/
-cp -rf assets ~/.config/
+cp -rf assets ~/.config/gtk-4.0
 
 #Установка yay и нужных программ + тема курсора
 git clone https://aur.archlinux.org/yay.git ~/yay
